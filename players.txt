@@ -1,0 +1,300 @@
+Alex Lan_26_7-0_250_Maryland_1_1001
+Allen Crabbe_28_6-5_212_California_2_1001
+Brandon Goodwin_24_6-0_180_None_3_1001
+Vince Carter_43_6-6_220_North Carolina_4_1001
+Jeff Teague_31_6-3_195_Wake Forest_5_1001
+Chandler Parsons_31_6-9_230_Florida_6_1001
+Tyrone Wallace_25_6-5_198_California_7_1001
+Jabari Parker_25_6-8_245_Duke_8_1001
+Bruno Fernando_21_6-9_240_Maryland_9_1001
+John Collins_22_6-9_235_Wake Forest_10_1001
+Enes Kanter_27_6-10_250_None_11_1002
+Gordon Hayward_30_6-7_225_Butler_12_1002
+Javote Green_26_6-4_205_Radford University_13_1002
+Grant Williams_21_6-6_236_Tennessee_14_1002
+Jaylen Brown_23_6-6_223_California_15_1002
+Jayson Tatum_22_6-8_210_Duke_16_1002
+Kemba Walker_29_6-0_184_Connecticut_17_1002
+Marcus Smart_26_6-3_220_Oklahoma State_18_1002
+Romeo Langford_20_6-4_216_Indiana_19_1002
+Tacko Fall_24_7-5_311_None_20_1002
+Justin Anderson_26_6-5_231_Virginia_21_1003
+Nicolas Claxton_20_6-11_215_Georgia_22_1003
+Spencer Dinwiddie_27_6-5_215_Colorado_23_1003
+Taurean Prince_26_6-7_218_Baylor_24_1003
+Theo Pinson_24_6-5_212_None_25_1003
+Wilson Chandler_32_6-8_235_DePaul_26_1003
+Rodions Kurucs_22_6-9_228_None_27_1003
+Timothe Luwawu-Cabarrot_24_6-7_220_None_28_1003
+Dzanan Musa_20_6-9_217_None_29_1003
+Kyrie Irving_28_6-2_195_Duke_30_1003
+Jalen McDaniels_22_6-10_205_San Diego State_31_1004
+Joe Chealey_24_6-4_190_College of Charleston_32_1004
+Malik Monk_22_6-3_200_Kentucky_33_1004
+Marvin Williams_33_6-8_237_North Carolina_34_1004
+Michael Kidd-Gilchrist_26_6-6_232_Kentucky_35_1004
+Miles Bridges_22_6-6_225_Michigan State_36_1004
+Terry Rozier_26_6-1_190_Louisville_37_1004
+Willy Hernangomez_25_6-11_250_None_38_1004
+Nicolas Batum_31_6-9_230_None_39_1004
+Bismack Biyombo_27_6-8_255_None_40_1004
+Kris Dunn_26_6-3_198_Providence_41_1005
+Ryan Arcidiacono_26_6-3_195_Villanova_42_1005
+Shaquille Harrison_26_6-7_190_Tulsa_43_1005
+Thaddeus Young_31_6-8_235_Georgia Tech_44_1005
+Denzel Valentine_26_6-4_220_Michigan State_45_1005
+Zach LaVine_25_6-6_200_UCLA_46_1005
+Adam Mokoka_21_6-5_190_None_47_1005
+Lauri Markkanen_22_7-0_240_Arizona_48_1005
+Tomas Satoransky_28_6-7_210_None_49_1005
+Cristiano Felicio_27_6-10_270_None_50_1005
+Alfonzo McKinnie_27_6-7_215_None_51_1006
+Andre Drummond_26_6-10_279_Connecticut_52_1006
+Tristan Thompson_29_6-9_254_Texas_53_1006
+Collin Sexton_26_6-1_190_Alabama_54_1006
+Darius Garland_20_6-1_192_Vanderbilt_55_1006
+Dean Wade_23_6-9_228_Kansas State_56_1006
+J.P. Macura_24_6-4_203_Xavier_57_1006
+John Henson_29_6-9_219_North Carolina_58_1006
+Jordan Clarkson_27_6-4_194_Missouri_59_1006
+Kevin Love_31_6-8_251_UCLA_60_1006
+Courtney Lee_34_6-5_215_Western Kentucky_61_1007
+Delon Wright_27_6-5_185_Utah_62_1007
+Dorian Finney-Smith_26_6-7_220_Florida_63_1007
+Jalen Brunson_23_6-1_190_Villanova_64_1007
+Josh Reaves_22_6-4_214_Penn State_65_1007
+Justin Jackson_25_6-7_220_North Carolina_66_1007
+Michael Gilchrist_26_6-6_232_Kentucky_67_1007
+Seth Curry_29_6-2_185_Duke_68_1007
+Bol Bol_28_7-2_220_Oregon_69_1007
+Luka Doncic_21_6-7_230_None_70_1007
+Gary Harris_25_6-4_210_Michigan State_71_1008
+Jarred Vanderbilt_21_6-9_214_Kentucky_72_1008
+Jerami Grant_26_6-8_210_Syracuse_73_1008
+Jordan McRae_29_6-5_179_Tennessee_74_1008
+Keita Bates-Diop_24_6-8_229_Ohio State_75_1008
+Malik Beasley_23_6-4_187_Florida State_76_1008
+Mason Plumlee_30_6-11_254_Duke_77_1008
+PJ Dozier_23_6-6_205_South Carolina_78_1008
+Monte Morris_24_6-2_183_Iowa State_79_1008
+Noah Vonleh_24_6-10_257_Indiana_80_1008
+Svi Mykhailiuk_22_6-7_205_Kansas_81_1009
+Donta Hall_22_6-9_229_Alabama_82_1009
+Blake Griffin_31_6-9_250_Oklahoma_83_1009
+Luke Kennard_23_6-5_206_Duke_84_1009
+Bruce Brown_23_6-4_202_Miami_85_1009
+Christian Wood_24_6-10_214_UNLV_86_1009
+Derrick Rose_31_6-2_200_Memphis_87_1009
+Tony Snell_28_6-6_213_New Mexico_88_1009
+Louis King_21_6-7_205_Oregon_89_1009
+Ky Bowman_22_6-1_187_Boston College_90_1009
+Eric Paschall_23_6-6_255_Villanova_91_1010
+Dragan Bender_22_7-0_249_None_92_1010
+Omari Spellman_22_6-8_245_Villanova_93_1010
+Marquese Chris_22_6-9_240_Washington_94_1010
+Willie Cauley-Stein_26_7-0_240_Kentucky_95_1010
+Draymond Green_30_6-6_230_Michigan State_96_1010
+Glenn Robinson_26_6-6_222_Michigan_97_1010
+Andrew Wiggins_25_6-7_197_Kansas_98_1010
+D'Angelo Russell_24_6-4_193_Ohio State_99_1010
+Stephen Curry_32_6-3_185_Davidson_100_1010
+Jeff Green_33_6-8_235_Georgetown_101_1011
+Tyson Chandler_37_7-0_235_None_102_1011
+Gary Clark_25_6-6_225_None_103_1011
+Bruno Canoclo_24_6-9_218_None_104_1011
+James Harden_30_6-5_220_Arizona State_105_1011
+DeMarre Carroll_33_6-6_215_Missouri_106_1011
+Eric Gordon_31_6-3_215_Indiana_107_1011
+Robert Covington_29_6-7_209_Tennessee State_108_1011
+Austin Rivers_27_6-3_200_Duke_109_1011
+Russell Westbrook_31_6-3_200_UCLA_110_1011
+Aaron Holiday_23_6-0_185_UCLA_111_1012
+Alize Johnson_23_6-7_212_Missouri State_112_1012
+Brian Bowen_21_6-6_190_None_113_1012
+Doug McDermott_28_6-7_225_Creighton_114_1012
+Edmond Sumner_24_6-4_196_Xavier_115_1012
+JaKarr Sampson_26_6-7_214_St.John_116_1012
+Jeremy Lamb_27_6-7_180_Connecticut_117_1012
+Justin Holiday_31_6-6_180_Washington_118_1012
+Malcolm Brogdon_27_6-5_229_Virginia_119_1012
+Victor Oladipo_27_6-4_213_Indiana_120_1012
+Kawhi Leonard_28_6-7_225_San Diego State_121_1013
+Landry Shamet_23_6-4_190_Wichita State_122_1013
+Lou Williams_33_6-1_175_None_123_1013
+Marcus Morris Sr_30_6-8_218_Kansas_124_1013
+Maurice Harkless_26_6-7_220_St.John_125_1013
+Montrezl Harrell_26_6-7_240_Louisville_126_1013
+Patrick Beverley_31_6-1_180_None_127_1013
+Patrick Patterson_31_6-8_235_Kentucky_128_1013
+Paul George_29_6-8_220_Fresno State_129_1013
+Reggie Jackson_29_6-3_208_Boston College_130_1013
+Alex Caruso_26_6-5_186_Texas A&M_131_1014
+Anthony Davis_27_6-10_253_Kentucky_132_1014
+Avery Bradley_29_6-3_180_Texas_133_1014
+Danny Green_32_6-6_215_North Carolina_134_1014
+JaVale McGee_32_7-0_270_Nevada-Reno_135_1014
+Jared Dudley_34_6-6_237_Boston College_136_1014
+Kyle Kuzma_24_6-8_221_Utah_137_1014
+LeBron James_35_6-9_250_None_138_1014
+Rajon Rondo_34_6-1_180_Kentucky_139_1014
+Kentavious Caldwell-Pope_27_6-5_204_Georgia_140_1014
+De'Anthony Melton_26_6-2_200_USC_141_1015
+Dusty Hannahs_26_6-3_210_Arkansas_142_1015
+Grayson Allen_24_6-4_198_Duke_143_1015
+Ja Morant_20_6-3_174_Murray State_144_1015
+Jae Crowder_29_6-6_235_Marquette_145_1015
+Kyle Anderson_26_6-9_230_UCLA_146_1015
+Jarrod Uthoff_26_6-9_220_Iowa_147_1015
+John Konchar_24_6-5_210_None_148_1015
+Jordan Bell_25_6-8_216_Oregon_149_1015
+Josh Jackson_23_6-8_207_Kansas_150_1015
+Bam Adebayo_22_6-9_255_Kentucky_151_1016
+James Johnson_33_6-7_240_Wake Forest_152_1016
+Jimmy Butler_30_6-7_230_Marquette_153_1016
+Justise Winslow_24_6-6_222_Duke_154_1016
+KZ Okpala_20_6-8_215_Stanford_155_1016
+Kendrick Nunn_24_6-2_190_Oakland_156_1016
+Meyers Leonard_28_7-0_260_Illinois_157_1016
+Solomon Hill_29_6-6_226_Arizona_158_1016
+Tyler Herra_20_6-5_195_Kentucky_159_1016
+Udonisa Haslem_39_6-8_235_Florida_160_1016
+Giannis Antetokounmpo_25_6-11_242_None_161_1017
+Thanasis Antetokounmpo_27_6-6_219_None_162_1017
+Donte DiVincenzo_23_6-4_203_Villanova_163_1017
+Eric Bledsoe_30_6-1_214_Kentucky_164_1017
+Frank Mason_26_5-11_190_Kansas_165_1017
+George Hill_33_6-3_188_None_166_1017
+Khris Middleton_28_6-7_222_Texas A&M_167_1017
+Kyle Korver_39_6-7_212_Creighton_168_1017
+Sterling Brown_25_6-5_219_Southern Methodist_169_1017
+Pat Connaughton_27_6-5_209_Notre Dame_170_1017
+Kelan Martin_24_6-5_230_Butler_171_1018
+Josh Okogie_21_6-4_213_Georgia Institute of Technology Nigeria_172_1018
+Gorgui Dieng_30_6-10_252_Louisville_173_1018
+Juancho Hernangomez_24_6-9_214_None_174_1018
+Jordan McLaughlin_24_5-11_185_USC_175_1018
+Naz Reid_24_6-9_264_Louisiana State_176_1018
+Jacob Evans_22_6-4_210_Cincinnati_177_1018
+Jake Layman_26_6-8_209_Maryland_178_1018
+Jarrett Culver_21_6-6_195_Texas Tech_179_1018
+Jaylen Nowell_20_6-4_201_Washington_180_1018
+Lonzo Ball_22_6-6_190_UCLA_181_1019
+Jaxson Hayes_19_6-11_220_Texas_182_1019
+E'Twaun Moore_31_6-3_191_Purdue_183_1019
+Nicolo Melli_29_6-9_23_None_184_1019
+Josh Gray_26_6-0_180_None_185_1019
+Derrick Favors_28_6-9_265_Georgia Tech_186_1019
+Brandon Ingram_22_6-7_190_Duke_187_1019
+Frank Jackson_21_6-3_205_Duke_188_1019
+JJ Redick_35_6-3_200_Duke_189_1019
+Zion Williamson_19_6-6_284_Duke_190_1019
+Taj Gibson_34_6-9_232_USC_191_1020
+Kadeem Allen_27_6-1_200_Arizona_192_1020
+Rj Barrett_19_6-6_214_North Carolina State_193_1020
+Reggie Bullock_29_6-6_205_North Carolina_194_1020
+Wayne Ellington_32_6-4_207_North Carolina_195_1020
+Frank Ntilikina_21_6-4_200_None_196_1020
+Mitchell Robinson_22_7-0_240_None_197_1020
+Ignas Brazdeikis_21_6-6_221_Michigan_198_1020
+Elfrid Payton_26_6-3_195_Louisana-Lafayette_199_1020
+Julius Randle_25_6-8_250_Kentucky_200_1020
+Chris Paul_34_6-1_175_Wake Forest_201_1021
+Devon Hall_24_6-2_215_Virginia_202_1021
+Isaiah Roby_22_6-8_230_University of Nebraska-Lincoln_203_1021
+Kevin Hervey_23_6-9_230_Texas-Arlington_204_1021
+Steven Adams_26_6-11_265_Pittsburgh_205_1021
+Danilo Gallinari_31_6-10_233_None_206_1021
+Darius Bazley_19_6-8_208_None_207_1021
+Dennis Schroder_26_6-1_172_None_208_1021
+Luguentz Dort_25_6-3_215_None_209_1021
+Terrance Ferguson_21_6-6_190_None_210_1021
+Markelle Fultz_21_6-3_209_Washington_211_1022
+Terrence Ross_29_6-6_206_Washington_212_1022
+Al-Farouq Aminu_29_6-8_220_Wake Forest_213_1022
+Mo Bamba_21_7-0_231_University of Texas at Austin_214_1022
+Nikola Vucevic_29_6-11_260_USC_215_1022
+Khem Birch_27_6-9_233_UNLV_216_1022
+Evan Fournier_27_6-7_205_None_217_1022
+D.J. Augustin_35_5-11_183_Texas_218_1022
+Michael Carter-Williams_28_6-5_190_Syracuse_219_1022
+Vic Law_24_6-7_201_Northwestern_220_1022
+Shake Milton_23_6-5_205_Southern Methodist_221_1023
+Kyle O'Quinn_30_6-9_250_Norfolk State_222_1023
+Furkan Korkmaz_22_6-7_202_None_223_1023
+Jonah Bolden_24_6-8_225_None_224_1023
+Norvel Pelle_27_6-10_231_None_225_1023
+Raul Neto_27_6-1_180_None_226_1023
+Tobias Harris_27_6-8_226_Tennessee_227_1023
+Trey Burke_27_6-0_185_Michigan_228_1023
+Ben Simmons_23_6-10_240_Louisiana State_229_1023
+Joel Embiid_26_7-0_280_Kansas_230_1023
+Tariq Owens_24_6-10_205_Texas Tech_231_1024
+Cameron Johnson_24_6-8_210_North Carolina_232_1024
+Dario Saric_26_6-10_225_None_233_1024
+Elie Okobo_22_6-3_190_None_234_1024
+Jalen Lecque_19_6-4_185_None_235_1024
+Jared Harper_22_5-10_175_None_236_1024
+Deandre Ayton_21_6-11_250_Arizona_237_1024
+Ricky Rubio_29_6-3_190_None_238_1024
+Devin Booker_23_6-5_206_Kentucky_239_1024
+Cheick Diallo_23_6-8_219_Kansas Mali_240_1024
+Damian Lillard_29_6-2_195_Weber State_241_1025
+Trevor Ariza_34_6-8_215_UCLA_242_1025
+Carmelo Anthony_35_6-8_238_Syracuse_243_1025
+Kent Bazemore_30_6-4_195_Old Dominion_244_1025
+Nassir Little_20_6-5_220_North Carolina_245_1025
+Anfernee Simons_20_6-3_181_None_246_1025
+Zach Collins_22_6-11_250_None_247_1025
+Jaylen Hoard_21_6-8_216_None_248_1025
+Mario Hezonja_25_6-8_220_None_249_1025
+Moses Brown_20_7-2_245_None_250_1025
+Nemanja Bjelica_31_6-10_234_None_251_1026
+Wenyen Gabriel_23_6-9_205_None_252_1026
+Alex Len_26_7-0_250_Maryland_253_1026
+De'Aaron Fox_22_6-3_185_Kentucky_254_1026
+Yogi Ferrell_26_6-0_178_Indiana_255_1026
+Harry Giles_21_6-11_240_Duke_256_1026
+Justin James_23_6-7_190_Wyoming_257_1026
+Marvin Bagley_21_6-11_235_Duke_258_1026
+Anthony Tolliver_34_6-8_240_Creighton_259_1026
+Richaun Holmes_26_6-10_235_Bowling Green_260_1026
+Dejounte Murray_23_6-4_180_Washington_261_1027
+Jakob Poeltl_24_7-1_245_Utah_262_1027
+Chimezie Metu_23_6-9_225_USC_263_1027
+DeMar DeRozan_30_6-6_220_USC_264_1027
+LaMarcus Aldridge_34_6-11_250_Texas_265_1027
+Patty Mills_31_6-1_180_St.Mary_266_1027
+Drew Eubanks_23_6-9_245_None_267_1027
+Luka Samanic_20_6-10_227_None_268_1027
+Marco Belinelli_34_6-5_220_None_269_1027
+Rudy Gay_33_6-8_250_Connecticut_270_1027
+Fred VanVleet_26_6-1_197_Wichita State_271_1028
+Kyle Lowry_34_6-0_196_Villanova_272_1028
+Patrick McCaw_24_6-7_181_UNLV_273_1028
+Norman Powell_26_6-3_215_UCLA_274_1028
+Chris Boucher_27_6-9_200_Oregon_275_1028
+Marc Gasol_35_6-11_255_None_276_1028
+Oshae Brissett_21_6-7_210_None_277_1028
+Serge Ibaka_30_7-0_235_None_278_1028
+Shamorie Ponds_21_6-0_175_None_279_1028
+Terence Davis_22_6-4_201_None_280_1028
+Bojan Bogdanovic_30_6-8_226_None_281_1029
+Donovan Mitchell_23_6-1_215_Louisville_282_1029
+Georges Niang_26_6-7_230_Iowa State_283_1029
+Juwan Morgan_22_6-7_232_Indiana_284_1029
+Justin Wright-Foreman_22_6-0_190_Hofstra_285_1029
+Nigel Williams-Goss_25_6-2_190_Gonzaga_286_1029
+Tony Brantley_33_6-5_250_Georgetown_287_1029
+Stanton Kidd_28_6-6_216_Colorado State_288_1029
+Jarrell Brantley_23_6-5_250_College of Charleston_289_1029
+Royce O'Neale_26_6-4_226_Baylor_290_1029
+Isaiah Thomas_31_5-9_185_Washington_291_1030
+Isaac Bonga_20_6-8_180_None_292_1030
+Justin Robinson_22_6-1_195_None_293_1030
+Moritz Wagner_22_6-11_245_Michigan_294_1030
+Thomas Bryant_22_6-10_248_Indiana_295_1030
+Johnathan Williams_24_6-9_228_Gonzaga_296_1030
+Rui Hachimura_22_6-8_230_Gonzaga_297_1030
+Bradley Beal_26_6-3_207_Florida_298_1030
+Shabazz Napier_28_6-0_175_Connecticut_299_1030
+Jerome Robinson_23_6-4_190_Boston College_300_1030

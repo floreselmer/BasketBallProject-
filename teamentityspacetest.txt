@@ -1,0 +1,30 @@
+Atlanta Hawks_Lloyd Pierce_Atlanta_State Farm Arena_1001
+Boston Celtics_Brad Stevens_Boston_TD Garden_1002
+Brooklyn Nets_Jacque Vaughn_Brooklyn_Barclays Center_1003
+Charlotte Hornets_James Borrego_Charlotte_Spectrum Center_1004
+Chicago Bulls_Jim Boylen_Chicago_United Center_1005
+Cleveland Cavaliers_J.B. Bickerstaff_Cleveland_Rocket Mortgage FieldHouse_1006
+Dallas Mavericks_Rick Carlisle_Dallas_American Airlines Center_1007
+Denver Nuggets_Michael Malone_Denver_Pepsi Center_1008
+Detroit Pistons_Dwane Casey_Detroit_Little Caesars Arena_1009
+Golden State Warriors_Steve Kerr_San Francisco_Chase Center_1010
+Houston Rockets_Mike D'Antoni_Houston_Toyota Center_1011
+Indiana Pacers_Nate McMillan_Indianapolis_Bankers Life Fieldhouse_1012
+Los Angeles Clippers_Doc Rivers_Los Angeles_Staples Center_1013
+Los Angeles Lakers_Frank Vogel_Los Angeles_Staples Center_1014
+Memphis Grizzlies_Taylor Jenkins_Memphis_FedExForum_1015
+Miami Heat_Erik Spoelstra_Miami_American Airlines Arena_1016
+Milwaukee Bucks_Mike Budenholzer_Milwaukee_Fiserv Forum_1017
+Minnesota Timberwolves_Ryan Saunders_Minneapolis_Target Center_1018
+New Orleans Pelicans_Alvin Gentry_New Orleans_Smoothie King Center_1019
+New York Knicks_Mike Miller_New York City_Madison Square Garden_1020
+Oklahoma City Thunder_Billy Donovan_Oklahoma City_Chesapeake Energy Arena_1021
+Orlando Magic_Steve Clifford_Orlando_Amway Center_1022
+Philadelphia 76ers_Brett Brown_Philadelphia_Wells Fargo Center_1023
+Phoenix Suns_Monty Williams_Phoenix_Talking Stick Resort Arena_1024
+Portland Trail Blazers_Terry Stotts_Portland_Moda Center_1025
+Sacramento Kings_Luke Walton_Sacramento_Golden 1 Center_1026
+San Antonio Spurs_Gregg Popovich_San Antonio_AT&T Center_1027
+Toronto Raptors_Nick Nurse_Toronto_Scotiabank Arena_1028
+Utah Jazz_Quin Snyder_Salt Lake City_Vivint Smart Home Arena_1029
+Washington Wizards_Scott Brooks_Washington D.C._Capital One Arena_1030
